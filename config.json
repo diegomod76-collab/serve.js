@@ -1,0 +1,20 @@
+{
+    "token": "MTQ5Mjk3MjM2NTU5OTIxNTYxNg.Ghn32n.5GhznTjWSwzOlhHoWuehgKjLitYs5Iq4GpiqMY",
+    "clientId": "1492972365599215616",
+    "guildId": "1492952960009765017",
+    "logChannelId": "1487644873732391024",
+    "painel_publico": true,
+    "canais": {
+        "carrinho": "1487639914475552838",
+        "logs_cupons": "1487644873732391024"
+    },
+    "pix": {
+        "chave": "1ba5bf26-415a-499b-b1e5-8b47d3110abb",
+        "nome": "Diego Martins Nascimento",
+        "cidade": "Itapoa"
+    },
+    "clientSecret": "iInb3SbEaamErK-Amza6EMiDMpOc_q9Q",
+  "redirectUri": "https://discord.com/oauth2/authorize?client_id=1492972365599215616&response_type=code&redirect_uri=https%3A%2F%2FSEU-SITE-DO-RENDER.onrender.com%2Fcallback&scope=identify+guilds.join"
+
+}
+
